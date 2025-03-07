@@ -1,1 +1,15 @@
 private/
+
+# Python virtual environments
+venv/
+env/
+.venv/
+.env/
+ENV/
+venv.bak/
+env.bak/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.class
