@@ -1,0 +1,6 @@
+# Ignore private directory
+private/
+
+# Ignore all files in the docs directory
+docs/*
+
