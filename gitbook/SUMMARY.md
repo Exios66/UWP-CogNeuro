@@ -11,7 +11,6 @@
 
 * [Organizational Framework](executive-board/organizational-framework.md)
 * [Members & Partners](executive-board/members-and-partners/README.md)
-  * [Key Roles & Responsibilities](executive-board/members-and-partners/key-roles-and-responsibilities.md)
   * [Primary Stakeholders](executive-board/members-and-partners/primary-stakeholders.md)
 
 ## Projects
@@ -26,4 +25,11 @@
 
 * [Open-Source Literature](external-resources/open-source-literature.md)
 * [Social Media](external-resources/social-media.md)
-* [Resources & Utilities](external-resources/resources-and-utilities.md)
+* [Resources & Utilities](external-resources/resources-and-utilities/README.md)
+  * [Hotel Reviews Dataset](external-resources/resources-and-utilities/hotel-reviews-dataset.md)
+
+## Core Documentation
+
+* [Organization Documentation](core-documentation/organization-documentation/README.md)
+  * [Key Roles & Responsibilities](core-documentation/organization-documentation/key-roles-and-responsibilities.md)
+  * [Organization Constitution Key Articles](core-documentation/organization-documentation/organization-constitution-key-articles.md)

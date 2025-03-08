@@ -3,6 +3,20 @@ icon: screwdriver-wrench
 cover: >-
   https://images.unsplash.com/photo-1516397281156-ca07cf9746fc?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxyZXNvdXJjZXN8ZW58MHx8fHwxNzQxNDEyODE0fDA&ixlib=rb-4.0.3&q=85
 coverY: 193
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Resources & Utilities
