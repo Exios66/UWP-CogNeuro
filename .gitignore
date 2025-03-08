@@ -16,3 +16,7 @@ __pycache__/
 
 # Other configuration files
 .hintrc
+
+# Documentation build files
+Resources/docs/build/
+Resources/docs/requirements.txt
