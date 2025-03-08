@@ -20,3 +20,8 @@ __pycache__/
 # Documentation build files
 Resources/docs/build/
 Resources/docs/requirements.txt
+
+# All HTML and INV files in documentation builds
+**/docs/build/**/*.html
+**/docs/**/*.inv
+**/docs/**/requirements.txt
