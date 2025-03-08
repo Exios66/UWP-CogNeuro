@@ -13,3 +13,6 @@ env.bak/
 __pycache__/
 *.py[cod]
 *.class
+
+# Other configuration files
+.hintrc
