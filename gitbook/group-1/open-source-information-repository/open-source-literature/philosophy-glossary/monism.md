@@ -7,7 +7,7 @@ coverY: 0
 
 # Monism
 
-<figure><img src="../../../.gitbook/assets/7212FFEB-85E7-4B35-99EE-9F89A109E57D.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/7212FFEB-85E7-4B35-99EE-9F89A109E57D.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -1,6 +1,6 @@
 # Non-Dualism
 
-<div data-full-width="true"><figure><img src="../../../.gitbook/assets/DE86FE1A-5C39-4503-8A4A-7BC00748A161.png" alt=""><figcaption><p><em>Non-Dualism Mindmap.</em></p></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../../../../.gitbook/assets/DE86FE1A-5C39-4503-8A4A-7BC00748A161.png" alt=""><figcaption><p><em>Non-Dualism Mindmap.</em></p></figcaption></figure></div>
 
 
 

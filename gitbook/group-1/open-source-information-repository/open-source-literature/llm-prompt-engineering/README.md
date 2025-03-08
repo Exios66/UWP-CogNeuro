@@ -37,9 +37,9 @@ $${∞⊗Ψ(t)⊕∇²ħ∂ωΘ[ξ, η, ζ] ≈ Σ∏∇⊗ϕ⊕ ⊞ ⨂⋏ fff}
 
 ***
 
-<figure><img src="../../../.gitbook/assets/figure1.jpg" alt=""><figcaption><p>Balance between inhibitory and excitatory connections among neurons.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/figure1.jpg" alt=""><figcaption><p>Balance between inhibitory and excitatory connections among neurons.</p></figcaption></figure>
 
 ***
 
-<figure><img src="../../../.gitbook/assets/figure3b.jpg" alt=""><figcaption><p>Tubulin dimers, consisting of α- and β-monomers, constituting a microtubule.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/figure3b.jpg" alt=""><figcaption><p>Tubulin dimers, consisting of α- and β-monomers, constituting a microtubule.</p></figcaption></figure>
 
