@@ -9,19 +9,19 @@ coverY: 0
 
 {% tabs %}
 {% tab title="Facebook" %}
-
+Facebook Access Link
 {% endtab %}
 
 {% tab title="Instagram" %}
-
+Instagram Access Link
 {% endtab %}
 
 {% tab title="Twitter" %}
-
+Twitter Access Link
 {% endtab %}
 
 {% tab title="GitHub" %}
-
+Primary GitHub Access Link
 {% endtab %}
 {% endtabs %}
 

@@ -23,8 +23,23 @@
 
 ## External Resources
 
-* [Open-Source Literature](external-resources/open-source-literature.md)
-* [Social Media](external-resources/social-media.md)
+* [Open-Source Literature](external-resources/open-source-literature/README.md)
+  * [JSTOR](https://www.jstor.org/)
+  * [arXiv Open Source (Pre-Print)](https://arxiv.org/)
+  * [LLM Prompt Engineering](external-resources/open-source-literature/llm-prompt-engineering/README.md)
+    * [Prompt Injection](external-resources/open-source-literature/llm-prompt-engineering/prompt-injection.md)
+  * [Philosophy Glossary](external-resources/open-source-literature/philosophy-glossary/README.md)
+    * [Monism](external-resources/open-source-literature/philosophy-glossary/monism.md)
+    * [Non-Dualism](external-resources/open-source-literature/philosophy-glossary/non-dualism.md)
+    * [Materialism](external-resources/open-source-literature/philosophy-glossary/materialism.md)
+    * [Anti-Reductionism](external-resources/open-source-literature/philosophy-glossary/anti-reductionism.md)
+* [Social Media](external-resources/social-media/README.md)
+  * [CNC Twitter](external-resources/social-media/cnc-twitter.md)
+  * [CNC Instagram](external-resources/social-media/cnc-instagram.md)
+  * [CNC Facebook Page](external-resources/social-media/cnc-facebook-page.md)
+  * [CNC GitHub Organization](external-resources/social-media/cnc-github-organization.md)
+  * [CNC WhatsApp](external-resources/social-media/cnc-whatsapp.md)
+  * [CNC Email Contact](external-resources/social-media/cnc-email-contact.md)
 * [Resources & Utilities](external-resources/resources-and-utilities/README.md)
   * [Hotel Reviews Dataset](external-resources/resources-and-utilities/hotel-reviews-dataset.md)
 
